@@ -2,6 +2,7 @@ diff --git build/build.js build/build.js
 index 76ae198..87e4629 100644
 --- build/build.js
 +++ build/build.js
+
 @@ -223,6 +223,7 @@ steal(function( steal ) {
  		}
  		// get envjs
